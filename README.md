@@ -126,6 +126,6 @@ applied-llms/
 1. **Progressive Learning Path**: Organized from fundamentals to advanced topics
 2. **Theory + Practice Combination**: Each concept includes both explanatory documentation and practical exercises
 3. **Project-Based Learning**: Dedicated section for building actual applications
-4. **Comprehensive Coverage**: Includes all 28 points from your screenshot
+4. **Comprehensive Coverage**: Includes all 28 points of the curriculum
 5. **Assessment Tools**: Quizzes and flashcards to test understanding
 6. **Resource Collection**: Curated list of additional learning materials
