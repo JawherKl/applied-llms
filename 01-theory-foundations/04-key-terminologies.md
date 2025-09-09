@@ -39,5 +39,5 @@ As you dive deeper into the world of LLMs, you'll encounter a specific set of te
 
 ---
 
-**Next Up:** ➡️ **[Paper Summaries: Attention is All You Need](../05-paper-summaries/attention-is-all-you-need.md)**
+**Next Up:** ➡️ **[Paper Summaries: Attention is All You Need](05-paper-summaries/attention-is-all-you-need.md)**
 > Now that we have the vocabulary, let's use it to understand the most influential paper in modern NLP.
