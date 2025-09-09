@@ -13,9 +13,9 @@ An LLM is like that, but trained on a significant portion of the entire internet
 ```mermaid
 graph LR
     A[Your Input: <br> 'The capital of France is'] --> B[LLM Prediction Engine]
-    B --> C['Paris' (High Probability)]
-    B --> D['a' (Low Probability)]
-    B --> E['where?' (Very Low Probability)]
+    B --> C['Paris' High Probability]
+    B --> D['a' Low Probability]
+    B --> E['where?' Very Low Probability]
 ```
 
 ## 🧠 How Do They "Learn"? It's All About Patterns
@@ -67,4 +67,3 @@ print(" ".join(output))
 
 **Next Up:** ➡️ **[NLP Basics: Tokenization, Embeddings, and Attention](./02-nlp-basics.md)**
 > To understand how this prediction is actually implemented, we need to learn about the fundamental building blocks: how words become numbers, and how models understand their relationships.
-```
