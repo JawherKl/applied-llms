@@ -6,7 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/JawherKl/applied-llms)
 ![Stars](https://img.shields.io/github/stars/JawherKl/applied-llms)
 
-![applied-llms](https://github.com/JawherKl/applied-llms/blob/main/docs/resources/applied-llms.gif)
+![applied-llms](https://github.com/JawherKl/applied-llms/blob/main/docs/resources/applied-llms.jpg)
 
 A structured learning path and project portfolio for software engineers to master Large Language Models. This repository moves beyond theory, focusing on the practical application of LLMs through prompt engineering, API integration, and building scalable applications using frameworks like LangChain and LlamaIndex.
 
