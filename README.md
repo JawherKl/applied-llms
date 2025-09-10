@@ -170,7 +170,7 @@ This repository synthesizes knowledge from a wide array of exceptional resources
 *   **r/LocalLLaMA** - The central Reddit community for open-source LLMs.
 *   **Hugging Face Discord** - A vibrant community for discussion and help with open-source models.
 *   **LangChain Discord** - Great for getting help with the LangChain framework.
-*   **AI Engineer Summit Talks ([YouTube](https://www.youtube.com/@AIEngineerSummit))** - Talks from practitioners building the cutting edge of LLM applications.
+*   **AI Engineer Summit Talks ([YouTube](https://www.youtube.com/@aiDotEngineer))** - Talks from practitioners building the cutting edge of LLM applications.
 
 ---
 
