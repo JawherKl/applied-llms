@@ -19,7 +19,7 @@ This section is structured according to the first 8 days of the roadmap:
 
 ## 🗺️ How to Navigate This Folder
 
-Each concept has its own dedicated markdown file. It is highly recommended you go through them in order, as each topic builds on the previous one.
+Each concept has its own dedicated readme file. It is highly recommended you go through them in order, as each topic builds on the previous one.
 
 | File | Topic | Description |
 | :--- | :--- | :--- |
