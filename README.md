@@ -1,11 +1,11 @@
 # LLM Foundations: From Theory to Production 🚀
 
-![Repository Size](https://img.shields.io/github/repo-size/JawherKl/llm-foundations?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/JawherKl/llm-foundations?style=for-the-badge&color=orange)
-![Issues](https://img.shields.io/github/issues-raw/JawherKl/llm-foundations?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/JawherKl/llm-foundations?style=for-the-badge&color=blueviolet)
-![Stars](https://img.shields.io/github/stars/JawherKl/llm-foundations?style=for-the-badge&color=gold)
-![License](https://img.shields.io/github/license/JawherKl/llm-foundations?style=for-the-badge)
+![Repository Size](https://img.shields.io/github/repo-size/JawherKl/llm-foundations)
+![Last Commit](https://img.shields.io/github/last-commit/JawherKl/llm-foundations)
+![Issues](https://img.shields.io/github/issues-raw/JawherKl/llm-foundations)
+![Forks](https://img.shields.io/github/forks/JawherKl/llm-foundations)
+![Stars](https://img.shields.io/github/stars/JawherKl/llm-foundations)
+![License](https://img.shields.io/github/license/JawherKl/llm-foundations)
 
 
 ![llm-foundations](https://github.com/JawherKl/llm-foundations/blob/main/resources/llm-foundations.jpg)
