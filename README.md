@@ -1,14 +1,14 @@
-# Applied LLMs: From Theory to Production 🚀
+# LLM Foundations: From Theory to Production 🚀
 
-![Repository Size](https://img.shields.io/github/repo-size/JawherKl/applied-llms?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/JawherKl/applied-llms?style=for-the-badge&color=orange)
-![Issues](https://img.shields.io/github/issues-raw/JawherKl/applied-llms?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/JawherKl/applied-llms?style=for-the-badge&color=blueviolet)
-![Stars](https://img.shields.io/github/stars/JawherKl/applied-llms?style=for-the-badge&color=gold)
-![License](https://img.shields.io/github/license/JawherKl/applied-llms?style=for-the-badge)
+![Repository Size](https://img.shields.io/github/repo-size/JawherKl/llm-foundations?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/JawherKl/llm-foundations?style=for-the-badge&color=orange)
+![Issues](https://img.shields.io/github/issues-raw/JawherKl/llm-foundations?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/JawherKl/llm-foundations?style=for-the-badge&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/JawherKl/llm-foundations?style=for-the-badge&color=gold)
+![License](https://img.shields.io/github/license/JawherKl/llm-foundations?style=for-the-badge)
 
 
-![applied-llms](https://github.com/JawherKl/applied-llms/blob/main/resources/applied-llms.jpg)
+![llm-foundations](https://github.com/JawherKl/llm-foundations/blob/main/resources/llm-foundations.jpg)
 
 A structured learning path and project portfolio for software engineers to master **Large Language Models**. This repository moves beyond theory, focusing on the practical application of LLMs through prompt engineering, API integration, and building scalable applications.
 
@@ -36,7 +36,7 @@ The curriculum is divided into six logical parts:
 ## 🏗️ Repository Structure
 
 ```bash
-applied-llms/
+llm-foundations/
 ├── 01-theory-foundations/          # Days 1-8: How LLMs work
 ├── 02-prompt-engineering/          # Days 9-16: Effective prompting
 ├── 03-practical-applications/      # Days 17-18: API integration & simple apps
@@ -71,7 +71,7 @@ To make the most of this curriculum, you'll want to be familiar with these core 
 1.  **Setup Your Environment**: Install Python, create a virtual environment, and install key packages (`openai`, `langchain`, `streamlit`)
 2.  **Get API Access**: Sign up for OpenAI/Anthropic and get your API keys
 3.  **Install Ollama**: Follow the [Ollama installation guide](https://github.com/ollama/ollama) to run models locally
-4.  **Clone This Repo**: `git clone https://github.com/JawherKl/applied-llms.git`
+4.  **Clone This Repo**: `git clone https://github.com/JawherKl/llm-foundations.git`
 5.  **Explore the Structure**: Review the repository organization and learning path
 
 ### 💡 Pro Tips
